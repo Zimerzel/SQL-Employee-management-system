@@ -25,3 +25,41 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
+
+## Table of Contents
+
+* [User Story](#user-story)
+* [Acceptence Criteria](#acceptence-criteria)
+* [Table of Contents](#table-of-contents)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [Questions](#questions)
+* [Video Link](#video-link)
+
+## Installation
+
+* npm init
+* npm install inquirer
+* npm install mysql2
+* npm install console-table
+
+## Usage
+Run the following command at the root of your project:
+* node server.js
+
+    or
+
+* npm start
+
+## Credits
+* Zach Imerzel
+
+## Questions
+Contact me with any questions: 
+
+Email : Zach.imerzel@gmail.com
+Github : https://github.com/Zimerzel
+
+## Video Link
+
