@@ -1,6 +1,6 @@
+![project 12](https://user-images.githubusercontent.com/79726069/121832740-63ffd680-cc90-11eb-8e9a-ca331cb6b39e.PNG)
+
 # SQL-Employee-management-system
-
-
 
 ## User Story
 AS A business owner
