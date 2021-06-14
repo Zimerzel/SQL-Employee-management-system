@@ -62,4 +62,5 @@ Email : Zach.imerzel@gmail.com
 Github : https://github.com/Zimerzel
 
 ## Video Link
-
+* This video is a sample due to the project not being in a fully developed state:
+https://drive.google.com/file/d/1SHHvgsSGIl3FMdxYq8PTlDKvs96uYbgv/view
