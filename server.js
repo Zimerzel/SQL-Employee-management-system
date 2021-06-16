@@ -11,7 +11,7 @@ const db = mysql.createConnection(
       // Your MySQL username,
       user: 'root',
       // Your MySQL password
-      password: 'Koolerthenu99!',
+      password: 'ENV.PW
       database: 'tracker'
     },
 );
